@@ -19,7 +19,7 @@ services:
 
 
   backend:
-    build: ./backend
+    build: ./ฺBackend
     container_name: backend
     restart: always
     ports:
