@@ -50,7 +50,7 @@ reactfastapi/
 
 ### Frontend Development
 
-The frontend is built using React and Vite. To run the frontend in development mode, navigate to the `frontend` directory and run:
+The frontend is built using React and Vite. a To run the frontend in development mode, navigate to the `frontend` directory and run:
 ```bash
 npm install
 npm run dev
